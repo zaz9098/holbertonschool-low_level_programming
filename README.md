@@ -1,1 +1,1 @@
-learn to code with C
+Learn C
